@@ -1,0 +1,8 @@
+Owner: Xcesius
+Name: AutoFlaskManager
+Repository
+
+Ignore:
+src
+.gitignore
+README.md
